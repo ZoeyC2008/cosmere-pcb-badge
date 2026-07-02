@@ -17,9 +17,11 @@
 
 ## Picture of PCB
 
+![alt text](resources/docs/schem.pngg)
+
 ![pcb](resources/docs/image.png)
 
-![3d](3d.png)
+![3d](resources/docs/3d.png)
 
 ## Inspiration
 
